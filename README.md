@@ -3,9 +3,9 @@
 ## Passo a passo para execução
 ### Clone o respositório:
 `git clone https://github.com/henriqueprdlm/SOAPWebServiceMDCAspectRatio` \
-`cd nome-do-repositorio`
 
 ### Instale as dependências:
+Entre no diretório do projeto e execute: \
 `npm install`
 
 ### Inicie o servidor SOAP:
