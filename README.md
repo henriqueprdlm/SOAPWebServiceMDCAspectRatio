@@ -16,3 +16,4 @@ Saída esperada: Servidor SOAP rodando em http://localhost:3000/mdc?wsdl
 Em outro terminal: \
 `node client.js` \
 Assim, sairá o resultado do MDC e do Aspect Ratio. 
+#### Obs.: Você pode alterar as dimensões da imagem em client.js
